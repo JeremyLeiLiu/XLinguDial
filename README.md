@@ -1,5 +1,5 @@
 # XLinguDial
-This is the official repository for our Short paper "Prompt Learning to Mitigate Catastrophic Forgetting in Cross-lingual Transfer for Open-domain Dialogue Generation" accepted for presentation at [ACM SIGIR 2023](https://sigir.org/sigir2023/), the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval.
+This is the official repository for our Short Research paper "Prompt Learning to Mitigate Catastrophic Forgetting in Cross-lingual Transfer for Open-domain Dialogue Generation" accepted for presentation at the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR '23](https://sigir.org/sigir2023/)).
 
 ## Updates
 We are working on cleaning up our code and will make it available soon.
