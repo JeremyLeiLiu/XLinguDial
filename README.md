@@ -14,4 +14,21 @@ This research is supported by the [Natural Sciences and Engineering Research Cou
 Lei Liu is supported by the [SIGIR Student Travel Award](https://sigir.org/general-information/travel-grants/) and [Academic Excellence Fund (AEF)](https://www.yorku.ca/gradstudies/students/current-students/awards-and-scholarships/other-funding-sources/academic-excellence-fund/) for presenting this work at SIGIR '23.
 
 ### Citation
-Lei Liu and Jimmy Xiangji Huang. 2023. Prompt Learning to Mitigate Catastrophic Forgetting in Cross-lingual Transfer for Open-domain Dialogue Generation. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’23).
+```
+@inproceedings{liu-etal-2023-prompt,
+    author = {Liu, Lei and Huang, Jimmy Xiangji},
+    title = {Prompt Learning to Mitigate Catastrophic Forgetting in Cross-Lingual Transfer for Open-Domain Dialogue Generation},
+    year = {2023},
+    isbn = {9781450394086},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3539618.3592043},
+    doi = {10.1145/3539618.3592043},
+    booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+    pages = {2287–2292},
+    numpages = {6},
+    keywords = {catastrophic forgetting, few-shot cross-lingual transfer, dialogue generation, prompt learning, multitask learning},
+    location = {Taipei, Taiwan},
+    series = {SIGIR '23}
+}
+```
