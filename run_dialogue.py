@@ -4,9 +4,9 @@
 File: run_dialogue.py
 Author: Lei Liu
 
-Official repository for the Short Research Paper "Prompt Learning to Mitigate Catastrophic Forgetting in Cross-lingual
-Transfer for Open-domain Dialogue Generation" accepted for presentation at the 46th International ACM SIGIR Conference
-on Research and Development in Information Retrieval (SIGIR '23).
+Description: Official repository for the Short Research Paper "Prompt Learning to Mitigate Catastrophic Forgetting in 
+Cross-lingual Transfer for Open-domain Dialogue Generation" accepted for presentation at the 46th International ACM 
+SIGIR Conference on Research and Development in Information Retrieval (SIGIR '23).
 
 
 
