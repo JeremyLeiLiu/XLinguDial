@@ -3,9 +3,9 @@ This is the official repository for our **Short Research Paper** "Prompt Learnin
 
 ## Updates
 
-July 18, 2023 - Our paper is available on ACM Digital Library at [https://dl.acm.org/doi/10.1145/3539618.3592043](https://dl.acm.org/doi/10.1145/3539618.3592043).
+July 19, 2023 - Our publication has been selected to appear in the [ACM Showcase](https://www.growkudos.com/showcase/publishers/acm?utm_medium=email&utm_source=transactional&utm_campaign=acm-n2-1) on Kudos. Check out our page [here](https://www.growkudos.com/publications/10.1145%25252F3539618.3592043/reader).
 
-June 12, 2023 - We are working on cleaning up our code and will make it available soon.
+July 18, 2023 - Our paper is available on ACM Digital Library at [https://dl.acm.org/doi/10.1145/3539618.3592043](https://dl.acm.org/doi/10.1145/3539618.3592043).
 
 May 31, 2023 - Lei Liu, the first author of this work, is honoured to receive the SIGIR Student Travel Award!
 
