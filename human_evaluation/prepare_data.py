@@ -1,7 +1,8 @@
 """
-File: human_eval_data.py
+File: prepare_data.py
 Author: Lei Liu
-Description: prepare data for human evaluation.
+
+Description: Prepare data for human evaluation.
 """
 
 import os
