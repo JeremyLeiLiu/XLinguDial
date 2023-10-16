@@ -2,11 +2,29 @@
 This is the official repository for our **Short Research Paper** "Prompt Learning to Mitigate Catastrophic Forgetting in Cross-lingual Transfer for Open-domain Dialogue Generation" accepted for presentation at **the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval ([SIGIR '23](https://sigir.org/sigir2023/))**.
 
 ## Updates
+
+July 18, 2023 - Our paper is available on ACM Digital Library at [https://dl.acm.org/doi/10.1145/3539618.3592043](https://dl.acm.org/doi/10.1145/3539618.3592043).
+
 June 12, 2023 - We are working on cleaning up our code and will make it available soon.
 
 May 31, 2023 - Lei Liu, the first author of this work, is honoured to receive the SIGIR Student Travel Award!
 
 May 12, 2023 - The camera-ready paper is available on arXiv at [https://arxiv.org/abs/2305.07393](https://arxiv.org/abs/2305.07393)
+
+## Dependencies
+Our code is built upon Python 3.8 and the [🤗 Transformers version 4.8.0](https://github.com/huggingface/transformers/tree/v4.8.0). Dependencies are listed as follows.
+- cuda==11.0
+- torch==1.6.0
+- torchvision==0.7.0
+- transformers==4.8.0
+- datasets==1.9.0
+- arrow==2.0.0
+- sacrebleu==1.5.0
+- nltk
+- sentencepiece
+- protobuf
+- absl-py
+- tensorboard
 
 ## Acknowledgments
 This research is supported by the [Natural Sciences and Engineering Research Council (NSERC) of Canada](https://www.nserc-crsng.gc.ca/index_eng.asp), the York Research Chairs (YRC) program and an [ORF-RE (Ontario Research Fund Research Excellence) award](https://www.ontario.ca/page/ontario-research-fund-research-excellence) in BRAIN Alliance. Computations were made on the supercomputer [Béluga](https://www.calculquebec.ca/en/communiques/beluga-a-supercomputer-for-science-2/), managed by [Calcul Québec](https://www.calculquebec.ca/en/) and the [Digital Research Alliance of Canada](https://alliancecan.ca/en).
