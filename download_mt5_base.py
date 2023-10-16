@@ -3,7 +3,7 @@ File: download_mt5_base.py
 Author: Lei Liu
 Date: Nov 22, 2022
 
-Download the mT5-base model from HuggingFace Transformers to local directory.
+Description: Download the mT5-base model from HuggingFace Transformers to local directory.
 """
 
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
