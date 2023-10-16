@@ -1,7 +1,8 @@
 """
-File: human_eval_stats.py
+File: stats_calculator.py
 Author: Lei Liu
-Description: human evaluation results. Note that we assume there is only human annotator for each language.
+
+Description: Human evaluation results. Note that we assume there is only human annotator for each language.
 """
 import os
 import csv
