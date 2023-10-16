@@ -2,6 +2,7 @@
 File: distinct_n.py
 Author: Lei Liu
 Date: Dec 2, 2022
+
 Description: Implementation of distinct n-gram.
 """
 import collections
