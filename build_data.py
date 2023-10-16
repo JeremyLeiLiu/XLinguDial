@@ -2,7 +2,8 @@
 File: build_data.py
 Author: Lei Liu
 Date: Dec 26, 2022
-Description: building data for few-shot cross-lingual learning (FS-XLT) and multi-task learning (MTL).
+
+Description: Build data for few-shot cross-lingual learning (FS-XLT) and multi-task learning (MTL).
 """
 import os
 import csv
